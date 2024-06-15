@@ -1,5 +1,5 @@
 # Dashboard_authentication
-[![Introduction to Project](https://example.com/intro-video-thumbnail.jpg)](https://drive.google.com/file/d/1PtG2t9973jzdgPzYVXlv-4JMXMJS9wC2/view?usp=sharing)
+[![Introduction to Project Video ](https://example.com/intro-video-thumbnail.jpg)](https://drive.google.com/file/d/1PtG2t9973jzdgPzYVXlv-4JMXMJS9wC2/view?usp=sharing)
 
 The dashboard authentication project utilizes Flask, ReactJS, and MySQL to manage user registration and login functionalities. The application validates user inputs during registration and securely stores user data in a MySQL database. For authentication, it retrieves stored user credentials from MySQL and verifies login attempts. Upon successful authentication, users are redirected to a dashboard interface where they can access personalized content or features. The project emphasizes data security and user experience, ensuring robust validation mechanisms for input data integrity and secure handling of sensitive user information. Overall, it integrates frontend and backend technologies to create a seamless user authentication and dashboard navigation experience within a web application framework.
 
